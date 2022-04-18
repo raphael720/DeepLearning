@@ -4,9 +4,9 @@
 <p align="center">💻 Meus estudos sobre Redes Neurais e DeepLearning</p>
 
 <div align="center">
-<a href="https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/raphael720/Algoritmos_e_Estrutura_de_Dados?style=for-the-badge"></a>
-<a href="https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/raphael720/Algoritmos_e_Estrutura_de_Dados?style=for-the-badge"></a>
-<a href="https://github.com/raphael720/Algoritmos_e_Estrutura_de_Dados/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/raphael720/Algoritmos_e_Estrutura_de_Dados?style=for-the-badge"></a>
+<a href="https://github.com/raphael720/DeepLearning/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/raphael720/DeepLearning?style=for-the-badge"></a>
+<a href="https://github.com/raphael720/DeepLearning/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/raphael720/DeepLearning?style=for-the-badge"></a>
+<a href="https://github.com/raphael720/DeepLearning/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/raphael720/DeepLearning?style=for-the-badge"></a>
 </div>
 
 Tabela de conteúdos 
