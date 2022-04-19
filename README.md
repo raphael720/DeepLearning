@@ -1,7 +1,7 @@
 
 <h1 align="center">DeepLearning</h1>
 
-<p align="center">💻 Meus estudos sobre Redes Neurais e DeepLearning</p>
+<p align="center">💻 Meus estudos pelo universo das Redes Neurais e DeepLearning</p>
 
 <div align="center">
 <a href="https://github.com/raphael720/DeepLearning/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/raphael720/DeepLearning?style=for-the-badge"></a>
@@ -15,13 +15,16 @@ Tabela de conteúdos
 * [Sobre](#Sobre) 
 * [Tabela de Conteúdo](#tabela-de-conteudo) 
 * [Redes Neurais](#Redes-Neurais) 
-	*  [Perceptron](#) 
+	*  [Perceptron](https://github.com/raphael720/DeepLearning/tree/main/Perceptron) 
 	* [Adaline](#)
 	* [N. sigmoid](#)
 * [Observações](#Observações)
 * [Tecnologias](#tecnologias) 
 * [Autor](#Autor) 
 <!--te-->
+
+## Status do Projeto
+  <h3 align="center"> 🚧 Redes Neurais 🧠 Em construção... 🚧 </h3>
 
 ## Sobre
 <p>
@@ -56,7 +59,7 @@ O  **Neurônio artificial (NA)** funciona de forma similar, uma informação che
 
 Figura 3: Perceptron
 
-O **NA** é chamado de **Perceptron,** com apenas ele, é possível construir a “Rede” mais simples possível...  [o que é perceptron](#)
+O **NA** é chamado de **Perceptron,** com apenas ele, é possível construir a “Rede” mais simples possível...  [o que é perceptron](https://github.com/raphael720/DeepLearning/tree/main/Perceptron)
 </p>
 
 ## Observações
