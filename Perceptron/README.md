@@ -7,7 +7,7 @@ O tipo mais básico de Rede Neural Artificial é formada por apenas um neurônio
 
 O perceptron é formado por:
 
-<img src='../imagens/perceptron.png' width='350'>
+<img src='../imagens/perceptron.svg' width='350'>
 
 - __entradas__ $x_1,...,x_D$: representam os atributos dos seus dados com dimensionalidade $D$. O Perceptron aceita qualquer tamanho de entrada, porém a saída é sempre apenas um valor.
 - __junção aditiva__ $\sum$: também chamada de _função agregadora_, nada mais é que a soma ponderada das entradas com os __pesos__ ($w_1,...,w_D)$. Em geral, o resultado é somado com um __bias__ $b$, responsável por deslocar o resultado do somatório. A junção aditiva é descrita pela seguinte fórmula:
