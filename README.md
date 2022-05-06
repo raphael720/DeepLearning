@@ -14,10 +14,10 @@ Tabela de conteúdos
 <!--ts--> 
 * [Sobre](#Sobre) 
 * [Tabela de Conteúdo](#tabela-de-conteudo) 
-* [Redes Neurais](#Redes-Neurais) 
-	*  [Perceptron](https://github.com/raphael720/DeepLearning/tree/main/Perceptron) 
-	* [Adaline](#)
-	* [N. sigmoid](#)
+* [Redes Neurais de uma Camada](#Redes-Neurais) 
+	*  [Perceptron](https://github.com/raphael720/DeepLearning/blob/main/redes%20neurais%20de%20uma%20camada/Perceptron.ipynb) 
+	* [Adaline](https://github.com/raphael720/DeepLearning/blob/main/redes%20neurais%20de%20uma%20camada/Adaline.ipynb)
+	* [N. sigmoid](#) 
 * [Observações](#Observações)
 * [Tecnologias](#tecnologias) 
 * [Autor](#Autor) 
@@ -64,7 +64,7 @@ O **NA** é chamado de **Perceptron,** com apenas ele, é possível construir a 
 
 ## Observações
 
-- Todos os códigos foram feitos no windows.
+- Os códigos foram feitos tanto no windows quanto no Linux(Ubuntu).
 
 ## 🛠 Tecnologias 
 As seguintes ferramentas foram usadas na construção do projeto: 
@@ -78,8 +78,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	- Redes Neurais Artificiais em Python by [Jones Granatyr](https://www.udemy.com/user/jones-granatyr/)
 - Artigos
 	- [A Logical Calculus of the Ideas Immanent in nervous activity](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/332ac256-9cda-40f6-9484-d7ed36ee1e50/mcp.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220418%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220418T222641Z&X-Amz-Expires=86400&X-Amz-Signature=6cbd4b122c298f760e317b72943e2f8eb008ea2078f5058ce999da0b6228c12e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22mcp.pdf%22&x-id=GetObject)  
+	- [http://sisne.org/Disciplinas/PosGrad/PsicoConex/aula6.pdf](http://sisne.org/Disciplinas/PosGrad/PsicoConex/aula6.pdf)
+	- [RNA – Adaline e Regra do Delta](http://www.barbon.com.br/wp-content/uploads/2013/08/RNA_Aula4.pdf)
 - Sites
 	- https://adrielcabral.medium.com/uma-leve-explica%C3%A7%C3%A3o-sobre-redes-neurais-e-a-matem%C3%A1tica-por-tr%C3%A1s-dela-f136da92d2b7
+	- [What is the difference between a Perceptron, Adaline, and neural network model?](https://www.quora.com/What-is-the-difference-between-a-Perceptron-Adaline-and-neural-network-model)
 	 
 
 ## Autor
@@ -92,3 +95,4 @@ Feito com ❤️ por Raphael Nascimento 👋🏽 Entre em contato!
 
 [![Twitter Badge](https://img.shields.io/badge/-Raphael_720-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Raphael)](https://twitter.com/Raphael_720) [![Linkedin Badge](https://img.shields.io/badge/-Raphael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-nascimento-511b09148/)](https://www.linkedin.com/in/raphael-nascimento-511b09148/) 
 [![Gmail Badge](https://img.shields.io/badge/-raphaelleite720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelleite720@gmail.com)](mailto:raphaelleite720@gmail.com)
+
